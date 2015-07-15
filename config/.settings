@@ -1,0 +1,19 @@
+{
+    "username": "louis.wheeler.dev@trifecta.com", 
+    "environment": "developer", 
+    "project_name": "SalesforcePracticeApp", 
+    "workspace": "/Users/louis.wheeler/Repos/", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "RY6TQ5WFYDOXRJBXBCT79UR0W28NOQQ4", 
+    "metadata_container": "1dc1a0000006BBPAA2", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
