@@ -17,6 +17,12 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Invoice__c</members>
+        <members>Line_Item__c</members>
+        <members>Merchandise__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
